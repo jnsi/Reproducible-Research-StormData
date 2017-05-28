@@ -8,8 +8,8 @@ Running under: Windows 7 x64 (build 7601) Service Pack 1
 
 
 ## Data analysis steps by steps     
-1- Download raw file
-2- Explore data with str, head, dim, class ...commands lines
+1- Download raw file   
+2- Explore data with str, head, dim, class ...commands lines     
 
 3- Process/transform the data (if necessary) into a format suitable for analysis   31- Subset data by selecting some variables based on impact analysis for health       and economic against weather
     "EVTYPE", "FATALITIES", "INJURIES", "PROPDMG", "PROPDMGEXP", 
