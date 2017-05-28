@@ -18,9 +18,9 @@ Running under: Windows 7 x64 (build 7601) Service Pack 1
  32- Group event types to reduce the number from 48 to 17    
  33- Give to each eventype an unified event description   
  34- Compute PROPDMG and CROPDMG variables,
-    Choose a strategy to fill all of the missing values with 1 when exponent for PROPDMGEXP" and CROPDMGEXP has a value as +, ?
- 35- Caculate the property and crop damge by 'dmg' and 'exponent' variable and also for property damage
- 36- After cleaning data, obtain a tidy_data
+    Choose a strategy to fill all of the missing values with 1 when exponent for PROPDMGEXP" and CROPDMGEXP has a value as +, ?     
+ 35- Caculate the property and crop damge by 'dmg' and 'exponent' variable and also for property damage       
+ 36- After cleaning data, obtain a tidy_data    
 
 ### Tidy dataset   
 
