@@ -29,8 +29,8 @@ The tidy dataset, used for the analysis, is obtained by:
 2- Renames these variables    
 3- Group the events types to reduce them to 17 event types. The NOAA storm databasecode book reports 48 event type. The event types in the data set are more than 9  hundred. Some events have 0 or very lower counts    
   
-   table(stormdata_raw$EVTYPE)
-   length(unique(stormdata_raw$EVTYPE))
+   table(stormdata_raw$EVTYPE)      
+   length(unique(stormdata_raw$EVTYPE))        
    [1] 985       
   
 4- Applying the exponent to the property and crop amounts         
